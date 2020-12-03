@@ -1,2 +1,2 @@
 # 2fa-Speakeasy
-A simple two-factor authenication project utilizing Node,Express, and Speakeasy
+A simple Express server implementing two-factor authenication using Speakeasy, UUID, and Node JSON Database
