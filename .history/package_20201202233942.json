@@ -1,0 +1,29 @@
+{
+  "name": "2fa-Speakeasy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "s"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awhit-commits/2fa-Speakeasy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Awhit-commits/2fa-Speakeasy/issues"
+  },
+  "homepage": "https://github.com/Awhit-commits/2fa-Speakeasy#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node-json-db": "^1.1.0",
+    "nodemon": "^2.0.6",
+    "speakeasy": "^2.0.0",
+    "uuid": "^8.3.1"
+  }
+}
